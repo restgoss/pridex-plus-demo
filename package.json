@@ -2,7 +2,7 @@
   "name": "pridex-plus",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nameaccount.github.io/namerepository",
+  "homepage": "https://restgoss.github.io/pridex-plus-demo",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
